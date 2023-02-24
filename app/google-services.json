@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170136841816",
+    "project_id": "loginpmdm",
+    "storage_bucket": "loginpmdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170136841816:android:bca4f1633f6c384289a42d",
+        "android_client_info": {
+          "package_name": "com.example.posiblesmejoras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170136841816-4lko5cot6pem9jk4knbjm1i8qk8qb9iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiPsqNkgfpyvilPj_cK0AH9GL72dnAW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170136841816-4lko5cot6pem9jk4knbjm1i8qk8qb9iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
